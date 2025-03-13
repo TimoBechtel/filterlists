@@ -1,3 +1,17 @@
+
+# Fork of https://github.com/yokoffing/filterlists 
+
+With the following changes:
+- disable double-click filter for YouTube - re-enabling double-click for fullscreen
+
+**Note: I did not change the links below for subscribing.**
+
+Use https://raw.githubusercontent.com/TimoBechtel/filterlists/refs/heads/main/youtube_clear_view.txt for subscribing to the YouTube filter.
+
+_Unedited original Readme below._
+
+---
+
 ![GitHub last commit](https://img.shields.io/github/last-commit/yokoffing/filterlists)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/yokoffing/filterlists)
 ![GitHub Maintained](https://img.shields.io/badge/Open%20Source-Yes-orange)
