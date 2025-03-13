@@ -20,9 +20,6 @@ www.youtube.com###chat:remove()
 ! Hide "Shorts remixing this video" shelf in the description
 www.youtube.com##ytd-reel-shelf-renderer
 
-! Don't enter / exit fullscreen on double-click 
-www.youtube.com##+js(aeld, dblclick)
-
 ! Hide View Products
 www.youtube.com##.ytp-suggested-action-badge-expanded
 
@@ -142,3 +139,6 @@ m.youtube.com##[tab-title="Shorts"]
 !||www.youtube.com/s/player/*/player_ias.vflset/*/annotations_module.js$script
 ! Video Overlay - endscreen
 !||www.youtube.com/s/player/*/player_ias.vflset/*/endscreen.js^$script
+
+! Don't enter / exit fullscreen on double-click 
+!www.youtube.com##+js(aeld, dblclick)
